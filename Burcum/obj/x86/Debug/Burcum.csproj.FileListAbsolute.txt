@@ -1,0 +1,36 @@
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\bin\Debug\Burcum.exe
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\bin\Debug\Burcum.pdb
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\Burcum.Form1.resources
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\Burcum.Properties.Resources.resources
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\Burcum.exe
+C:\Users\programcı\AppData\Local\Temporary Projects\Burcum\obj\x86\Debug\Burcum.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\Burcum.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\Burcum.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\bin\Debug\Burcum.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\bin\Debug\Burcum.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\Burcum.Form1.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\Burcum.Properties.Resources.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Burcum\Burcum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\bin\Debug\Burcum.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\bin\Debug\Burcum.pdb
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csprojAssemblyReference.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.Burcum.resources
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.Properties.Resources.resources
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csproj.GenerateResource.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.pdb
+E:\Github Paylaş\Burcum\Burcum\bin\Debug\Burcum.exe
+E:\Github Paylaş\Burcum\Burcum\bin\Debug\Burcum.pdb
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csprojAssemblyReference.cache
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.Burcum.resources
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.Properties.Resources.resources
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csproj.GenerateResource.cache
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.csproj.CoreCompileInputs.cache
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.exe
+E:\Github Paylaş\Burcum\Burcum\obj\x86\Debug\Burcum.pdb
